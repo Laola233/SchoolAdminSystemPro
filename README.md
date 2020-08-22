@@ -9,4 +9,4 @@ Language Support: Simplified Chinese
 
 Version: V0.2B
 
-Web Javadoc: None
+Web Javadoc: http://mofangserver.xyz/WebJavaDoc/SchoolAdminSystemPro/
