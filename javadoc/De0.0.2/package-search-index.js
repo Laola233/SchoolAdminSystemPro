@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"sasyspro","h":"","u":""},{"l":"sasyspro.api","h":"","u":""},{"l":"sasyspro.enums","h":"","u":""},{"l":"sasyspro.functions","h":"","u":""},{"l":"sasyspro.main","h":"","u":""},{"l":"sasyspro.membersadmin","h":"","u":""},{"l":"sasyspro.permission","h":"","u":""},{"l":"sasyspro.template","h":"","u":""},{"l":"所有程序包","h":"","u":"allpackages-index.html"}]
