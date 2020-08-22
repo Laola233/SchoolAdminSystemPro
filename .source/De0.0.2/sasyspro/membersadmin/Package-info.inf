@@ -1,0 +1,30 @@
+SchoolAdminSystemPro - Package Info File
+
+Package - sasyspro.membersadmin
+
+Classes:
+     Name    -    Version
+  - AdministratorsAdmin - V0.2B
+  - ParentsAdmin - V0.1B
+  - StudentsAdmin - V0.2B
+  - TeachersAdmin - V0.2B
+
+Extends:
+  - None
+  
+Implements:
+  - None
+ 
+Usage:
+  - sasyspro.template
+  	- ALL CLASSES 
+Info:
+	In this package,All functions are "final"! You can not replace any one!
+
+Main-Function:
+	- Support member services
+
+Author: Laola233
+
+Package-Version: V1.0
+  

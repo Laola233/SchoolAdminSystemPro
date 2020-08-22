@@ -1,0 +1,30 @@
+package sasyspro.enums;
+
+/**
+ * 
+ * @author Laola233
+ * @version 0.1B
+ * @serial SchoolAdminSystemPro
+ * @since 0.1B <code> " _ " refer to " . " </code>
+ */
+public enum Permissions {
+	sasyspro_sys_account_login, sasyspro_sys_account_logout, sasyspro_sys_account_safty_manage,
+	sasyspro_sys_account_manage_ban, sasyspro_sys_account_manage_del, sasyspro_sys_account_manage_add,
+	sasyspro_sys_account_manage_edit, sasyspro_sys_account_manage_disable, sasyspro_sys_account_manage_enable,
+	sasyspro_sys_account_manage_lookup, sasyspro_sys_function_look_mark_self_all,
+	sasyspro_sys_function_look_mark_class_Chinese, sasyspro_sys_function_look_mark_class_Maths,
+	sasyspro_sys_function_look_mark_class_English, sasyspro_sys_function_look_mark_class_Chemistry,
+	sasyspro_sys_function_look_mark_class_Physics, sasyspro_sys_function_look_mark_class_Geography,
+	sasyspro_sys_function_look_mark_class_Biology, sasyspro_sys_function_look_mark_class_History,
+	sasyspro_sys_function_look_mark_class_Political, sasyspro_sys_function_look_mark_class_IT,
+	sasyspro_sys_function_look_mark_class_PE, sasyspro_sys_function_look_mark_class_all,
+	sasyspro_sys_function_look_mark_school, sasyspro_sys_function_look_mark_grade, sasyspro_sys_function_set_mark,
+	sasyspro_sys_function_set_mark_part, sasyspro_sys_function_set_template_manage_enabled,
+	sasyspro_sys_function_set_template_manage_disabled, sasyspro_sys_function_set_template_manage_lookstatus,
+	sasyspro_sys_function_create_member, sasyspro_sys_function_create_exam,
+	sasyspro_sys_function_look_time_on_main_board, sasyspro_sys_function_print_out_empty_placeholder_all,
+	sasyspro_message_receive, sasyspro_admin_permission_set, sasyspro_admin_permission_add,
+	sasyspro_admin_permission_del, sasyspro_admin_permission_lookup, sasyspro_admin_shutdown_system,
+	sasyspro_admin_shutdown_system_now, sasyspro_admin_disable_system, sasyspro_admin_disable_part,
+	sasyspro_admin_disable_functions, all_permission_get, all_permission_not_get,
+}
