@@ -3,10 +3,10 @@ SchoolAdminSystemPro
 
 A simple SchoolAdminSystem java program.          
 
-Usage: Enter  java -jar SASYSP-latest.jar  in cmd  
+Usage: Under Developing....
 
 Language Support: Simplified Chinese
 
 Version: V0.2B
 
-Web Javadoc: http://mofangserver.xyz/WebJavaDoc/SchoolAdminSystemPro/
+Web Javadoc: http://web.mofangserver.icu/WebJavaDoc/SchoolAdminSystemPro/
