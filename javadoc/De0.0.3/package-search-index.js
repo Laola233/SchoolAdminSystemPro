@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"sasyspro"},{"l":"sasyspro.enums"},{"l":"sasyspro.functions"},{"l":"sasyspro.main"},{"l":"sasyspro.membersadmin"},{"l":"sasyspro.permission"},{"l":"sasyspro.storage.yaml"},{"l":"sasyspro.template"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();

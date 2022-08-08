@@ -1,0 +1,35 @@
+SchoolAdminSystemPro - Package Info File
+
+Package - sasyspro.enums
+
+Classes:
+     Name    -    Version
+  - GetEnumsConstant - V0.1B
+  - (Enum)Permissions - V0.2B
+  - (Enum)Subjects - V0.2B
+
+Extends:
+  - Permissions
+  	- extends java.lang.Enum<Permissions>
+  - Subjects
+  	- extends java.lang.Enum<Subjects>
+  
+Implements:
+  - Permissions
+  	- implements java.io.Serializable
+  	- implements java.lang.Comparable<Permissions>
+  - Subjects
+  	- implements java.io.Serializable
+  	- implements java.lang.Comparable<Subjects>
+  
+Info:
+	Enum package.
+
+Main-Function:
+	- Regulate codes.
+	- Regulate all problems about permissions.
+	- Support Enum Constant services.
+
+Author: Laola233
+
+Package-Version: V1.0

@@ -1,0 +1,28 @@
+SchoolAdminSystemPro - Package Info File
+
+Package - sasyspro.permission
+
+Classes:
+     Name    -    Version
+  - ManagePermission - V0.2B
+  - (Interface)Permission - V0.2B
+  - UserPermission - V0.2B
+
+Extends:
+  - ManagePermissiom
+  	- extends UserPermission
+  
+Implements:
+  - ManagePermission
+  	- implements Permission
+  
+Info:
+	In this package,All functions are "final"! You can not replace any one!
+
+Main-Function:
+	- Support permission services
+
+Author: Laola233
+
+Package-Version: V1.0
+  
