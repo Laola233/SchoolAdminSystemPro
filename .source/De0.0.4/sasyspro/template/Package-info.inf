@@ -1,0 +1,29 @@
+SchoolAdminSystemPro - Package Info File
+
+Package - sasyspro.template
+
+Classes:
+     Name    -    Version
+  - Administrator - V0.2B
+  - Class - V0.1B
+  - Exam - V0.1B
+  - Parent - V0.1B
+  - Student - V0.2B
+  - Teacher - V0.2B
+
+Extends:
+  - None
+  
+Implements:
+  - None
+  
+Info:
+	In this package,All functions are "final"! You can not replace any one!
+
+Main-Function:
+	- Support template services
+
+Author: Laola233
+
+Package-Version: V1.0
+  

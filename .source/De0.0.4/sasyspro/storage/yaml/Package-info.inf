@@ -1,0 +1,24 @@
+SchoolAdminSystemPro - Package Info File
+
+Package - sasyspro.storage.yaml
+
+Classes:
+     Name    -    Version
+  - IOControl_YAML - V0.1
+
+
+Extends:
+  - None
+
+Implements:
+  - None
+
+Info:
+	In this package,yml file storage is available using class in this package.
+
+Main-Function:
+	- Support storage services
+
+Author: Laola233
+
+Package-Version: V1.0

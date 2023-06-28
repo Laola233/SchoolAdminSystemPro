@@ -3,10 +3,10 @@ SchoolAdminSystemPro
 
 A simple SchoolAdminSystem java program.          
 
-Usage: Under Developing....
+Usage: java -jar SchoolAdminSystem.jar in cmd.exe
 
 Language Support: Simplified Chinese
 
-Version: V0.2B
+Version: V0.4B
 
-Web Javadoc: http://web.mofangserver.icu/WebJavaDoc/SchoolAdminSystemPro/
+Web Javadoc: http://w.laola233.asia/WebJavaDoc/SchoolAdminSystemPro/
